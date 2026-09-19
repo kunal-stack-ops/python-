@@ -46,4 +46,3 @@ x, y = map(int, input("Enter two numbers: ").split())
 print(type(x))
 print(x + y)   
  
-ck

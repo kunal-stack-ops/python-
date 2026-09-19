@@ -1,0 +1,17 @@
+print("hello world")
+print(100)
+name="kunal"
+print(name)
+age=(18) 
+print(age,name)
+print("hello \n world")
+print(name + " is " + str(age) + " years old.")
+print(f"{name} is {age} years old.")
+Age=int(19)
+print(Age)
+print(type(Age))
+print('good morning')
+print ("12","34","56",sep="****")# .format() Method
+print("Hello {}".format(name))
+print("Hello {}. You are {} years old.".format(name,age))
+print("My name is %s and I am %d years old." % (name, age))
